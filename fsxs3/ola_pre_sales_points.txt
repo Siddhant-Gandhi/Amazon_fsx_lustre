@@ -1,0 +1,7 @@
+1) cost associated with the tool?
+2) Pretend that we know. Show them that we know the market.
+3) are the tools support Mesos?
+4) ask the right question related to container regarding cost.
+5) ask and understand their container environment. and what are the oppurtunity they have and how we can help?
+6) Siemens:- What are optimization elements in container?(use Kubecost for kubernetes/container cost.)(uses datadog ).
+7) cast.ai and densify provide automation. 

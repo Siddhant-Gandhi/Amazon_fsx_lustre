@@ -1,0 +1,42 @@
+Value Migration
+1)customer shifting from high cost to low cost
+2)technolgy advancement
+3)changing govt. policies and regulations
+4)change in consumer behaviour due to convenience
+
+
+2020-2030 value migration
+1) Semi-conductors
+2) Electric vehicals/ LIthium ion and sodium ion battries.
+3) AI/ML
+4) Cloud Migration
+5) Green Hydrogen
+6) Renewable Energy( Solar energy, Wind Energy, Hydro power energy)
+7) Cryptocurrencies and Blockchain
+
+parameters for identifying cyclical expansion.
+1) when margins are high leads to capex. net block/gross block. last 3 years investment in fixed asset and capex
+   all the large companies in same sector are doing capex 3x-5x more than past 3 years. find trend in all the         companies
+2) 
+
+Value Chain Analysis
+->A value chain represents all the activities and processes involved in creating a product or performing a service. As such, it encompasses every stage of the product's or service's lifecycle, from design to production and distribution.
+
+In seeking higher profit margins or a competitive advantage, companies can conduct a value-chain analysis to identify each step (or link) in the chain and look for ways to improve it.
+
+1)we will learn about forward and backward integration.
+A) Backward Integration
+
+->In other words, backward integration is when a company buys another company that supplies the products or services needed for production. For example, a company might buy their supplier of inventory or raw materials.
+
+->Advantages of Backward Integration
+
+Companies pursue backward integration when it is expected to result in improved efficiency and cost savings. For example, backward integration might cut transportation costs, improve profit margins, and make the firm more competitive. Costs can be controlled significantly from production through to the distribution process. Businesses can also gain more control over their value chain, increasing efficiency, and gaining direct access to the materials that they need. In addition, they can keep competitors at bay by gaining access to certain markets and resources, including technology or patents.
+
+B) Forward Integration
+
+->Forward integration is a business strategy that involves expanding a company's activities to include the direct distribution of its products.
+
+Forward integration is colloquially referred to as "cutting out the middleman."
+
+While forward integration can be a way to increase a company's control of its product and profits, there can be a danger of diluting the core competencies and business.
